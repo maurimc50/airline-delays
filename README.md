@@ -1,4 +1,4 @@
-# Airline Delays Analysis
+# Airlines Delay Analysis
 
 Final project for Code Kentucky Data Analysis 1 class.
 
