@@ -5,7 +5,9 @@ Final project for Code Kentucky Data Analysis 1 class.
 ### Summary
 ***
 
-This project contains the Jupyter Notebook file ‘delays.ipynb’ that analyzes airline delays in the United States using data from https://www.kaggle.com/datasets/ulrikthygepedersen/airlines-delay The dataset used in this analysis contains information on the departure of domestic flights in the United States, including, length of flights, inbound/outbound airports, days, and delay info.
+This project contains the Jupyter Notebook file ‘delays.ipynb’ that analyzes airline delays in the United States using data from https://www.kaggle.com/datasets/ulrikthygepedersen/airlines-delay 
+
+The dataset used in this analysis contains information on the departure of domestic flights in the United States, including, length of flights, inbound/outbound airports, days, and delay info.
 
 ### Prerequisites
 ***
