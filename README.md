@@ -2,7 +2,7 @@
 
 Final project for Code Kentucky Data Analysis 1 class.
 
-delayed1.jpg
+![](delayed1.jpg)
 
 ### Summary
 ***
@@ -35,3 +35,6 @@ Reading data from a CSV file
 * Analyzing data with graphs using Matplotlib and Seaborn
 * Writing Python functions
 
+
+
+[def]: delayed1.jpg
